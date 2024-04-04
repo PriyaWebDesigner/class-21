@@ -355,6 +355,11 @@ section {
   color: #173b6c;
 }
 
+h2:hover{
+  color:cadetblue;
+}
+
+
 .custom-class{
   background-color:#0e2442;
 }
